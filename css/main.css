@@ -1,0 +1,152 @@
+body {
+  font-size: 1em;
+  line-height: 1.4;
+  background-color: #111;
+  color: #bbb;
+}
+
+img {
+  vertical-align: middle;
+}
+
+body {
+  font-size: 16px/26px;// 'Patua One', cursive;
+  font-weight: 100;
+}
+
+.wrapper {
+  width: 90%;
+  margin: 0 5%;
+}
+
+.main {
+  padding: 30px 0;
+}
+
+.main article h1 {
+  font-size: 300%;
+  color: #eee;
+  text-transform: uppercase;
+  margin: 0.3em 0;
+  font-weight: 100;
+}
+
+.main aside {
+  background-color: #292929;
+  padding: 5px;
+  border: 1px solid #303030;
+  border-radius: 150px;
+  max-width: 300px;
+  margin: auto;
+}
+
+.main aside img {
+  border-radius: 150px;
+  width: 100%;
+}
+
+nav ul {
+  margin: 0;
+  padding: 1em 0;
+}
+
+nav a {
+  display: block;
+  margin-bottom: 10px;
+  padding: 15px 0;
+  border-radius: 2px;
+
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  /*font-weight: bold;*/
+
+  color: white;
+  background-color: #393;
+}
+
+nav a:hover {
+  background-color: #262;
+}
+
+/*
+ * Medium width
+ */
+
+@media only screen and (min-width: 480px) {
+  nav a {
+    float: left;
+    width: 48%;
+    margin: 0 1% 2% 1%;
+  }
+
+  nav li:nth-child(odd) {
+    margin-left: 0;
+  }
+
+  nav li:nth-child(even) {
+    margin-right: 0;
+  }
+}
+
+/*
+  * Wide
+  */
+
+@media only screen and (min-width: 768px) {
+  body {
+    padding-top: 5%;
+  }
+
+  .main article {
+    float: right;
+    width: 66%;
+  }
+
+  .main aside {
+    float: left;
+    width: 28%;
+  }
+
+  nav a {
+    width: 23%;
+    margin: 0 1% 2% 1%;
+  }
+
+  nav li:first-child a {
+    margin-left: 0;
+  }
+
+  nav li:last-child a {
+    margin-right: 0;
+  }
+}
+
+/*
+  * Max width
+  */
+
+@media only screen and (min-width: 1140px) {
+  .wrapper {
+    width: 1026px; /* 1140px - 10% for margins */
+    margin: 0 auto;
+  }
+}
+
+/*
+  * Helpers
+  */
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  *zoom: 1;
+}
