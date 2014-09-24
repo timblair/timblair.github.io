@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/timblair
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tim.bla.ir
+  * I am timblair (https://keybase.io/timblair) on keybase.
+  * I have a public key with fingerprint 00B7 B4C9 C77C 3E30 F381  0B80 45B2 84B3 AC7A 6D2F
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "00b7b4c9c77c3e30f3810b8045b284b3ac7a6d2f",
+            "host": "keybase.io",
+            "key_id": "45b284b3ac7a6d2f",
+            "uid": "0dfbe88cb8e06a26084e33e1249f1800",
+            "username": "timblair"
+        },
+        "service": {
+            "hostname": "tim.bla.ir",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411570920,
+    "expire_in": 157680000,
+    "prev": "cc2970ab7a64d9b4d5d0bd3893a1629c247258db4b1df37ceb59ef6a5fa31340",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.5
+Comment: https://keybase.io/crypto
+
+yML4AnicO8LLzMDF6LqpZfOaqlx9xtMH3pcyhCjdeVGtlJSfUqlkVa2UnQqm0jLz
+0lOLCooy80qUrJQMDJLMk0ySLZPNzZONU40N0owtDA2SLAxMTJOMLEySjBOTzRPN
+UozSlHSUMvKLQTqAxiQlFqfqZeYDxYCc+MwUoCgW9aVgCYOUtKRUC4vkJItUA7NE
+IzMDC5NUY+NUQyMTyzRDCwMDkMLi1KK8xNxUoOqSzNyknMTMIqVaHSWgaFlmcirI
+zSCrESr0gEr0gGp0lAqK8kvyk/NzgOIZJSUFViBtJZUFIHXlqUnxUBPikzLzUoC+
+BmooSy0qzszPU7IyBKpMBpoFVGpoYmhoam5gaWSgo5RaUZBZlBqfCVJham4GdJ+B
+Acia1DKgkcnJRpbmBolJQB+apFgmmaSYphgkpRhbWBonGpoZWSYbmZgbmVqkJJkk
+GaakGZsnpyaZWqammSWapiUaGxqbgLxanFqYl69kZQJ0ZmI60MjizPS8xJLSolSl
+2kMHY1gYGLkY2FiZQPHGwMUpAIvNcnn+v3KvNrep3VmwNpZZ6vME79j7eh7XDeW3
+L/ombTch8c/necEnHSdf1jjP9qqtUeREg2+DfdMrjdZPu96sLS/pdyi/ud2n+Xvw
+rLpfv5L16qdNWu/CN/Pbp5IAlQvPLXaqnGaU/1G8cOZVjtMFWXsVjBVdd8Rc2CG1
+hPH+Mo+LAo9d93S+jN2rZVbDEDeDdfPpI8e8zuZ07DqWEbzl2SeL5Pta/XNKtVRK
+Y2y+cLL/DTmbyf2sfMGayUKeCzbHBO5uiPturmLYtipaMPKgV9h1H6nEpnthSsEP
+zu882taopsNSqWR37sO605InVu0RvRuZdCZh43OpM2emVkhlb92dqN0Vc7K5Jfvj
+jQmVbBFR27jm5vaddv/se8U+/HVZySLhBK4tgQ4ulV/2yRQuVn/WsyumQdjt6F5H
+3eAn71enOO9eP/8BF/PTP073PqTsVDpXcGIKG/NGl0zbufv+l+sr6ZZ+31qecyou
+n2vf7nP6DipxUut0F9ewc7UVcBTO0Zpf2VpvWpuVpMj/x+JBWDlnVU6LRVvUsgeJ
+Ru9mRglseSfMFcNze+WpLVr7ZFOu73V4P9NvKmvyCob74T+/iG54NuMLl3OD3onP
+M3z+bpbe9zg/fZqcxB/zz1IXOQ+4Mm7vZrzwfqq/VOdmxZ1HpohbTHurNON7QV3B
+kZh9nT/mJ5Tvb9vL6jPNZu1t/brdb18+u3VkxZ1MY6uazV/5JgIAxNKV4Q==
+=Jwpg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/timblair
+
+==================================================================
